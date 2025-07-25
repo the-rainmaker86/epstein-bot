@@ -105,11 +105,4 @@ if __name__ == "__main__":
     logging.info("Starting Reddit Keyword Comment Bot...")
     run_bot()
 
-print
 
-
-
-
-import logging
-
-logging.info("Hello, world!")
