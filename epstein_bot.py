@@ -21,10 +21,10 @@ TOP_POST_TIMEFRAME = 'hour'
 # Number of top posts to fetch
 POST_
 # The list of words to look for in post titles (case-insensitive)
-WORD_LIST = ["test", "example", "hello", "bot", "python", "script"] # Expand this list as needed!
+WORD_LIST = ["trump", "epstein"] # Expand this list as needed!
 
 # The comment text to post if a keyword is found
-COMMENT_TEXT = "your comment here"
+COMMENT_TEXT = "epstein copypasta goes here"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
