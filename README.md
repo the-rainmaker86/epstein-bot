@@ -1,0 +1,1 @@
+When you use this repo, you will create a Reddit instance that scans an arbitrary number of threads and inserts a copypasta comment whenever the title contains a certain keyword. In the wrong hands, this script can be INCREDIBLY annoying. Oh well. Just use it to spread the Epstein copypasta.
